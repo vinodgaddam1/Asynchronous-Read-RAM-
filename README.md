@@ -1,5 +1,4 @@
 # Asynchronous-Read-RAM
-# 🧠 Asynchronous-Read RAM — Project Overview (README)
 
 ## 📌 1. Project Title
 ✅ **Parameterized Asynchronous-Read RAM (Sync Write / Async Read)**
